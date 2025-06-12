@@ -16,3 +16,4 @@ This project sends WhatsApp messages using Twilio API. You can use it to send cu
 pip install -r requirements.txt
 cp .env.example .env
 python app.py
+![image](https://github.com/user-attachments/assets/d8f9857e-d16e-45a1-bebe-6fee93ac7b24)
